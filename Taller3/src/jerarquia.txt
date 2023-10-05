@@ -1,0 +1,324 @@
+R1
+Rey
+Julien Escobar
+20-07-1950
+#
+D1
+Duque
+Rafael Escobar
+11-08-1970
+M3,C5,B12,C2
+#
+M1
+Marquez
+Javier Escobar
+24-09-1990
+D2,C7,B4,C3
+#
+C1
+Conde
+Carlos Escobar
+15-03-1985
+D1,C6,B7,B11
+#
+B1
+Baron
+Luis Escobar
+02-11-2000
+M4,C4,B8,B16
+#
+T1
+Tierra
+Ciudad del Sol
+08-06-2010
+Maria Rodriguez,3,Barrio Verde%Carlos Sanchez,4,Barrio Feliz%Luisa Gomez,2,Barrio Rojo%Andres Hernandez,3,Barrio Alegre%Ana Ramirez,4,Barrio Tranquilo%Pedro Martinez,2,Barrio Soleado%Laura Lopez,3,Barrio Sereno%Daniel Perez,4,Barrio Alegre%Isabel Torres,2,Barrio Feliz%Jose Gonzalez,3,Barrio Tranquilo
+#
+T2
+Tierra
+Ciudad de la Luna
+19-12-2015
+Manuel Castro,3,Barrio Feliz%Rosa Morales,4,Barrio Rojo%Alejandro Jimenez,2,Barrio Alegre%Sofia Diaz,3,Barrio Verde%Javier Ruiz,4,Barrio Tranquilo%Ana Maria Silva,2,Barrio Soleado%David Soto,3,Barrio Alegre%Carolina Ortega,4,Barrio Rojo%Miguel Torres,2,Barrio Sereno%Laura Fernandez,3,Barrio Tranquilo
+#
+B2
+Baron
+Eduardo Escobar
+03-04-2005
+D2,C3,B13,B15
+#
+T3
+Tierra
+Ciudad de las Estrellas
+30-09-2012
+Camila Hernandez,3,Barrio Rojo%Carlos Diaz,4,Barrio Tranquilo%Valentina Perez,2,Barrio Feliz%Joaquin Ramirez,3,Barrio Soleado%Luisa Gomez,4,Barrio Alegre%Andres Torres,2,Barrio Rojo%Isabel Rodriguez,3,Barrio Tranquilo%Juan Ramirez,4,Barrio Feliz%Ana Martinez,2,Barrio Soleado%Diego Lopez,3,Barrio Alegre
+#
+T4
+Tierra
+Ciudad del Viento
+14-07-2018
+Santiago Torres,3,Barrio Alegre%Fernanda Martinez,4,Barrio Rojo%Emilio Gomez,2,Barrio Verde%Natalia Silva,3,Barrio Tranquilo%Diego Ramirez,4,Barrio Feliz%Valeria Soto,2,Barrio Sereno%Sebastian Hernandez,3,Barrio Rojo%Isabella Gonzalez,4,Barrio Tranquilo%Antonio Diaz,2,Barrio Soleado%Maria Jimenez,3,Barrio Alegre
+#
+C2
+Conde
+Antonio Escobar
+06-12-1995
+C7,B6,B10,C8
+#
+B3
+Baron
+Josefina Escobar
+27-05-2008
+M1,C5,B9,B14
+#
+T5
+Tierra
+Ciudad del Mar
+17-01-2014
+Daniel Perez,3,Barrio Alegre%Laura Lopez,4,Barrio Rojo%Ana Ramirez,2,Barrio Feliz%Carlos Sanchez,3,Barrio Verde%Pedro Martinez,4,Barrio Tranquilo%Maria Rodriguez,2,Barrio Soleado%Luisa Gomez,3,Barrio Verde%Andres Hernandez,4,Barrio Feliz%Isabel Torres,2,Barrio Alegre%Jose Gonzalez,3,Barrio Tranquilo
+#
+T6
+Tierra
+Ciudad de las Montañas
+23-03-2017
+Carolina Ortega,3,Barrio Tranquilo%Javier Ruiz,4,Barrio Rojo%David Soto,2,Barrio Alegre%Sofia Diaz,3,Barrio Verde%Rosa Morales,4,Barrio Feliz%Manuel Castro,2,Barrio Soleado%Alejandro Jimenez,3,Barrio Alegre%Laura Fernandez,4,Barrio Rojo%Miguel Torres,2,Barrio Sereno%Ana Maria Silva,3,Barrio Tranquilo
+#
+B4
+Baron
+Miguel Escobar
+09-09-2003
+C1,B3,B16,B7
+#
+T7
+Tierra
+Ciudad de los Ríos
+12-05-2011
+Natalia Silva,3,Barrio Rojo%Valeria Soto,4,Barrio Verde%Sebastian Hernandez,2,Barrio Tranquilo%Antonio Diaz,3,Barrio Alegre%Isabella Gonzalez,4,Barrio Soleado%Santiago Torres,2,Barrio Feliz%Fernanda Martinez,3,Barrio Alegre%Emilio Gomez,4,Barrio Rojo%Diego Ramirez,2,Barrio Tranquilo%Maria Jimenez,3,Barrio Soleado
+#
+T8
+Tierra
+Ciudad de las Flores
+01-08-2016
+Valentina Perez,3,Barrio Alegre%Joaquin Ramirez,4,Barrio Rojo%Camila Hernandez,2,Barrio Feliz%Carlos Diaz,3,Barrio Verde%Andres Torres,4,Barrio Tranquilo%Isabel Rodriguez,2,Barrio Soleado%Juan Ramirez,3,Barrio Alegre%Ana Martinez,4,Barrio Rojo%Diego Lopez,2,Barrio Feliz%Luisa Gomez,3,Barrio Sereno
+#
+M2
+Marquez
+Orlando Escobar
+13-02-1991
+C3,B14,B15,B6
+#
+C3
+Conde
+Lorenzo Escobar
+19-10-1996
+B2,B10,C8,C6
+#
+B5
+Baron
+Isidro Escobar
+07-06-2007
+D1,C4,B2,B15
+#
+T9
+Tierra
+Ciudad de las Playas
+25-04-2013
+Ana Maria Silva,3,Barrio Verde%David Soto,4,Barrio Rojo%Carolina Ortega,2,Barrio Feliz%Javier Ruiz,3,Barrio Soleado%Alejandro Jimenez,4,Barrio Tranquilo%Laura Fernandez,2,Barrio Feliz%Sofia Diaz,3,Barrio Alegre%Manuel Castro,4,Barrio Rojo%Miguel Torres,2,Barrio Sereno%Rosa Morales,3,Barrio Alegre
+#
+T10
+Tierra
+Ciudad del Bosque
+29-12-2019
+Isabel Torres,3,Barrio Feliz%Jose Gonzalez,4,Barrio Soleado%Daniel Perez,2,Barrio Verde%Laura Lopez,3,Barrio Rojo%Ana Ramirez,4,Barrio Tranquilo%Carlos Sanchez,2,Barrio Soleado%Pedro Martinez,3,Barrio Alegre%Maria Rodriguez,4,Barrio Rojo%Luisa Gomez,2,Barrio Feliz%Andres Hernandez,3,Barrio Tranquilo
+#
+B6
+Baron
+Guillermo Escobar
+08-03-2004
+C1,B13,B11,B2
+#
+T11
+Tierra
+Ciudad de los Lagos
+16-09-2015
+Daniel Perez,3,Barrio Rojo%Laura Lopez,4,Barrio Tranquilo%Ana Ramirez,2,Barrio Soleado%Carlos Sanchez,3,Barrio Alegre%Pedro Martinez,4,Barrio Feliz%Maria Rodriguez,2,Barrio Feliz%Luisa Gomez,3,Barrio Alegre%Andres Hernandez,4,Barrio Tranquilo%Isabel Torres,2,Barrio Rojo%Jose Gonzalez,3,Barrio Soleado
+#
+T12
+Tierra
+Ciudad de las Colinas
+04-07-2021
+Juan Perez,3,Barrio Alegre%Juanita Perez,4,Barrio Soleado%Nicolas Vega,2,Barrio Rojo%Luis Gomez,3,Barrio Tranquilo%Maria Hernandez,4,Barrio Verde%Pedro Gonzalez,2,Barrio Feliz%Laura Ramirez,3,Barrio Alegre%Carlos Torres,4,Barrio Soleado%Isabel Diaz,2,Barrio Rojo%Ana Martinez,3,Barrio Tranquilo
+#
+T13
+Tierra
+Ciudad de las Dunas
+07-03-2012
+Sofia Torres,3,Barrio Feliz%Andres Ramirez,4,Barrio Rojo%Valentina Lopez,2,Barrio Soleado%Joaquin Perez,3,Barrio Tranquilo%Camila Rodriguez,4,Barrio Verde%Diego Sanchez,2,Barrio Alegre%Isabella Gomez,3,Barrio Rojo%Antonio Hernandez,4,Barrio Soleado%Luisa Diaz,2,Barrio Tranquilo%Juan Gomez,3,Barrio Alegre
+#
+T14
+Tierra
+Ciudad de las Selvas
+19-05-2017
+Natalia Ramirez,3,Barrio Tranquilo%Sebastian Torres,4,Barrio Rojo%Emilio Diaz,2,Barrio Verde%Rosa Garcia,3,Barrio Alegre%David Rodriguez,4,Barrio Feliz%Valeria Sanchez,2,Barrio Soleado%Fernando Perez,3,Barrio Tranquilo%Isabella Morales,4,Barrio Rojo%Ana Jimenez,2,Barrio Alegre%Carlos Silva,3,Barrio Verde
+#
+T15
+Tierra
+Ciudad de las Colinas Verdes
+06-01-2011
+Carolina Ortega,3,Barrio Tranquilo%Javier Ruiz,4,Barrio Rojo%David Soto,2,Barrio Alegre%Sofia Diaz,3,Barrio Verde%Rosa Morales,4,Barrio Feliz%Manuel Castro,2,Barrio Soleado%Alejandro Jimenez,3,Barrio Alegre%Laura Fernandez,4,Barrio Rojo%Miguel Torres,2,Barrio Tranquilo%Ana Maria Silva,3,Barrio Feliz
+#
+T16
+Tierra
+Ciudad de las Cataratas
+23-08-2015
+Santiago Torres,3,Barrio Alegre%Fernanda Martinez,4,Barrio Rojo%Emilio Gomez,2,Barrio Verde%Natalia Silva,3,Barrio Tranquilo%Diego Ramirez,4,Barrio Feliz%Valeria Soto,2,Barrio Soleado%Sebastian Hernandez,3,Barrio Rojo%Isabella Gonzalez,4,Barrio Tranquilo%Antonio Diaz,2,Barrio Alegre%Maria Jimenez,3,Barrio Tranquilo
+#
+T17
+Tierra
+Ciudad de los Campos de Trigo
+06-07-2008
+Daniel Perez,3,Barrio Alegre%Laura Lopez,4,Barrio Tranquilo%Ana Ramirez,2,Barrio Soleado%Carlos Sanchez,3,Barrio Alegre%Pedro Martinez,4,Barrio Rojo%Maria Rodriguez,2,Barrio Rojo%Luisa Gomez,3,Barrio Alegre%Andres Hernandez,4,Barrio Tranquilo%Isabel Torres,2,Barrio Soleado%Jose Gonzalez,3,Barrio Feliz
+#
+T18
+Tierra
+Ciudad de los Cañones
+05-02-2014
+Manuel Castro,3,Barrio Rojo%Rosa Morales,4,Barrio Tranquilo%Alejandro Jimenez,2,Barrio Verde%Sofia Diaz,3,Barrio Alegre%Javier Ruiz,4,Barrio Soleado%Ana Maria Silva,2,Barrio Rojo%David Soto,3,Barrio Alegre%Carolina Ortega,4,Barrio Tranquilo%Miguel Torres,2,Barrio Verde%Laura Fernandez,3,Barrio Feliz
+#
+T19
+Tierra
+Ciudad de los Desiertos
+21-11-2010
+Camila Hernandez,3,Barrio Soleado%Carlos Diaz,4,Barrio Alegre%Valentina Perez,2,Barrio Rojo%Joaquin Ramirez,3,Barrio Tranquilo%Luisa Gomez,4,Barrio Verde%Andres Torres,2,Barrio Soleado%Isabel Rodriguez,3,Barrio Alegre%Juan Ramirez,4,Barrio Rojo%Ana Martinez,2,Barrio Tranquilo%Diego Lopez,3,Barrio Feliz
+#
+T20
+Tierra
+Ciudad de los Volcanes
+27-03-2016
+Santiago Torres,3,Barrio Feliz%Fernanda Martinez,4,Barrio Rojo%Emilio Gomez,2,Barrio Verde%Natalia Silva,3,Barrio Tranquilo%Diego Ramirez,4,Barrio Alegre%Valeria Soto,2,Barrio Soleado%Sebastian Hernandez,3,Barrio Rojo%Isabella Gonzalez,4,Barrio Tranquilo%Antonio Diaz,2,Barrio Alegre%Maria Jimenez,3,Barrio Tranquilo
+#
+C6
+Conde
+David Escobar
+14-09-1993
+C8,B7,B5,C1
+#
+B11
+Baron
+Rosa Escobar
+10-12-2007
+C4,B2,B16,B9
+#
+T21
+Tierra
+Ciudad de las Colinas Verdes
+06-01-2011
+Carolina Ortega,3,Barrio Tranquilo%Javier Ruiz,4,Barrio Rojo%David Soto,2,Barrio Alegre%Sofia Diaz,3,Barrio Verde%Rosa Morales,4,Barrio Feliz%Manuel Castro,2,Barrio Soleado%Alejandro Jimenez,3,Barrio Alegre%Laura Fernandez,4,Barrio Rojo%Miguel Torres,2,Barrio Tranquilo%Ana Maria Silva,3,Barrio Feliz
+#
+T22
+Tierra
+Ciudad de las Cataratas
+23-08-2015
+Santiago Torres,3,Barrio Alegre%Fernanda Martinez,4,Barrio Rojo%Emilio Gomez,2,Barrio Verde%Natalia Silva,3,Barrio Tranquilo%Diego Ramirez,4,Barrio Feliz%Valeria Soto,2,Barrio Soleado%Sebastian Hernandez,3,Barrio Rojo%Isabella Gonzalez,4,Barrio Tranquilo%Antonio Diaz,2,Barrio Alegre%Maria Jimenez,3,Barrio Tranquilo
+#
+B12
+Baron
+Alejandro Escobar
+20-04-2002
+M1,C7,B3,C3
+#
+T23
+Tierra
+Ciudad de los Arroyos
+31-10-2013
+Camila Hernandez,3,Barrio Soleado%Carlos Diaz,4,Barrio Alegre%Valentina Perez,2,Barrio Rojo%Joaquin Ramirez,3,Barrio Tranquilo%Luisa Gomez,4,Barrio Verde%Andres Torres,2,Barrio Soleado%Isabel Rodriguez,3,Barrio Alegre%Juan Ramirez,4,Barrio Rojo%Ana Martinez,2,Barrio Tranquilo%Diego Lopez,3,Barrio Feliz
+#
+T24
+Tierra
+Ciudad de los Cañaverales
+15-07-2018
+Santiago Torres,3,Barrio Alegre%Fernanda Martinez,4,Barrio Rojo%Emilio Gomez,2,Barrio Verde%Natalia Silva,3,Barrio Tranquilo%Diego Ramirez,4,Barrio Feliz%Valeria Soto,2,Barrio Soleado%Sebastian Hernandez,3,Barrio Rojo%Isabella Gonzalez,4,Barrio Tranquilo%Antonio Diaz,2,Barrio Alegre%Maria Jimenez,3,Barrio Tranquilo
+#
+M4
+Marquez
+Luisa Escobar
+02-03-1988
+C2,B16,B13,B5
+#
+C7
+Conde
+Roberto Escobar
+27-05-1997
+B1,B8,C4,C2
+#
+B13
+Baron
+Patricia Escobar
+11-09-2006
+D1,C4,B7,B10
+#
+T25
+Tierra
+Ciudad de los Bosques Oscuros
+26-01-2010
+Daniel Perez,3,Barrio Alegre%Laura Lopez,4,Barrio Tranquilo%Ana Ramirez,2,Barrio Soleado%Carlos Sanchez,3,Barrio Alegre%Pedro Martinez,4,Barrio Rojo%Maria Rodriguez,2,Barrio Rojo%Luisa Gomez,3,Barrio Alegre%Andres Hernandez,4,Barrio Tranquilo%Isabel Torres,2,Barrio Soleado%Jose Gonzalez,3,Barrio Feliz
+#
+T26
+Tierra
+Ciudad de los Ríos Claros
+09-08-2014
+Manuel Castro,3,Barrio Rojo%Rosa Morales,4,Barrio Tranquilo%Alejandro Jimenez,2,Barrio Verde%Sofia Diaz,3,Barrio Alegre%Javier Ruiz,4,Barrio Soleado%Ana Maria Silva,2,Barrio Rojo%David Soto,3,Barrio Alegre%Carolina Ortega,4,Barrio Tranquilo%Miguel Torres,2,Barrio Verde%Laura Fernandez,3,Barrio Feliz
+#
+B14
+Baron
+Esteban Escobar
+18-11-2001
+M2,C8,B4,C5
+#
+T27
+Tierra
+Ciudad de las Montañas Heladas
+14-03-2018
+Camila Hernandez,3,Barrio Soleado%Carlos Diaz,4,Barrio Alegre%Valentina Perez,2,Barrio Rojo%Joaquin Ramirez,3,Barrio Tranquilo%Luisa Gomez,4,Barrio Verde%Andres Torres,2,Barrio Soleado%Isabel Rodriguez,3,Barrio Alegre%Juan Ramirez,4,Barrio Rojo%Ana Martinez,2,Barrio Tranquilo%Diego Lopez,3,Barrio Feliz
+#
+T28
+Tierra
+Ciudad de los Bosques Profundos
+03-09-2010
+Santiago Torres,3,Barrio Alegre%Fernanda Martinez,4,Barrio Rojo%Emilio Gomez,2,Barrio Verde%Natalia Silva,3,Barrio Tranquilo%Diego Ramirez,4,Barrio Feliz%Valeria Soto,2,Barrio Soleado%Sebastian Hernandez,3,Barrio Rojo%Isabella Gonzalez,4,Barrio Tranquilo%Antonio Diaz,2,Barrio Alegre%Maria Jimenez,3,Barrio Tranquilo
+#
+C8
+Conde
+Elena Escobar
+05-07-1994
+B6,C3,B8,C5
+#
+B15
+Baron
+Hugo Escobar
+22-12-2005
+D2,C4,B3,B11
+#
+T29
+Tierra
+Ciudad de los Bosques Encantados
+01-05-2012
+Ana Maria Silva,3,Barrio Verde%David Soto,4,Barrio Rojo%Carolina Ortega,2,Barrio Feliz%Javier Ruiz,3,Barrio Soleado%Alejandro Jimenez,4,Barrio Tranquilo%Laura Fernandez,2,Barrio Feliz%Sofia Diaz,3,Barrio Alegre%Manuel Castro,4,Barrio Rojo%Miguel Torres,2,Barrio Sereno%Rosa Morales,3,Barrio Alegre
+#
+T30
+Tierra
+Ciudad de las Montañas Nebulosas
+11-09-2016
+Isabel Torres,3,Barrio Feliz%Jose Gonzalez,4,Barrio Soleado%Daniel Perez,2,Barrio Verde%Laura Lopez,3,Barrio Rojo%Ana Ramirez,4,Barrio Tranquilo%Carlos Sanchez,2,Barrio Soleado%Pedro Martinez,3,Barrio Alegre%Maria Rodriguez,4,Barrio Rojo%Luisa Gomez,2,Barrio Feliz%Andres Hernandez,3,Barrio Tranquilo
+#
+T31
+Tierra
+Ciudad de los Campos de Trigo
+06-07-2008
+Juan Perez,3,Barrio Alegre%Juanita Perez,4,Barrio Soleado%Nicolas Vega,2,Barrio Rojo%Luis Gomez,3,Barrio Tranquilo%Maria Hernandez,4,Barrio Verde%Pedro Gonzalez,2,Barrio Feliz%Laura Ramirez,3,Barrio Alegre%Carlos Torres,4,Barrio Soleado%Isabel Diaz,2,Barrio Rojo%Ana Martinez,3,Barrio Tranquilo
+#
+T32
+Tierra
+Ciudad de las Laderas Escarpadas
+19-11-2013
+Sofia Torres,3,Barrio Feliz%Andres Ramirez,4,Barrio Rojo%Valentina Lopez,2,Barrio Soleado%Joaquin Perez,3,Barrio Tranquilo%Camila Rodriguez,4,Barrio Verde%Diego Sanchez,2,Barrio Alegre%Isabella Gomez,3,Barrio Rojo%Antonio Hernandez,4,Barrio Soleado%Luisa Diaz,2,Barrio Tranquilo%Juan Gomez,3,Barrio Alegre
+#
+FIN
