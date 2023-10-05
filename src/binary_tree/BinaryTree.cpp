@@ -161,8 +161,8 @@ bool BinaryTree<T>::buscarID(string indi){
     if(nodo->id == indi){
         enc = true;
         cout << endl << "Nombre: " << nodo->nombre << endl;
-        cout << endl << "Tierra 1: " << nodo->left->nombTierras << endl;
-        cout << endl << "Tierra 2: " << nodo->right->nombTierras << endl;;
+        cout << endl << "Tierra 1: " << nodo->leftChild->nombTierras << endl;
+        cout << endl << "Tierra 2: " << nodo->rightChild->nombTierras << endl;;
     }
     return enc;
 }
